@@ -1,0 +1,15 @@
+.forecast-main {
+    margin-right: 20px;
+    font-size: large;
+    margin: 0 0 0 80px;
+    border-right: 5px white solid;
+}
+
+.forecast-main:nth-child(4){
+border-right: none;
+}
+
+.forecast-main > img{
+    position: relative;
+    right: 34%;
+}

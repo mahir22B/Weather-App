@@ -1,0 +1,17 @@
+.header-btn {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 30px;
+}
+
+.header-btn > div {
+    margin-right: 40px;
+    cursor: pointer;
+    font-size:x-large;
+}
+
+.selected {
+    font-weight:900;
+    color: #5fb0e8;
+}
